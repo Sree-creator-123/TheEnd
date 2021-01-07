@@ -87,7 +87,7 @@ function draw() {
   
   stroke("white");
   textSize(20);
-  fill("white");
+  fill("black");
   text("Score: " + score, 400, 50);
 }
 
